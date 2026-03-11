@@ -11,7 +11,7 @@ Wyniki analizy wskazują, że w obszarach zagrożonych powodzią dominują teren
 * dane hydrograficzne
 
 ## Autor
-Małgorzata Matejko-Kurek
+Małgorzata Matejko-Kurek  
 2026
 
 
